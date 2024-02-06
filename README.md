@@ -5,3 +5,7 @@ This is a new portfolio project
 This is an example of an image:
 
 ![image](https://github.com/abhichrome/dataviz/assets/158612057/3d722248-3488-47ca-8991-af00f8448266)
+
+## How to use a Code Space
+
+* Setup a virtualenv: `virtualenv ~/.code`
